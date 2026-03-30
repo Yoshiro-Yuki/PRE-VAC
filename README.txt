@@ -36,7 +36,7 @@ Ensure your root directory contains a `Datasets` folder with the following files
 - `brand_data.json`, `size_data.json`, `color_data.json` (ID mappings)
 - `main_categories.json`, `sub_categories.json` (Category mappings)
 
-### 2. Initializing & Training the Model
+2. Initializing & Training the Model
 You can pre-train the models and save the `.joblib` weights to your disk by running the connection script:
 
 bash: 
